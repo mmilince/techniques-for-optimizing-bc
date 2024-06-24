@@ -1,1 +1,1 @@
-# techniques-for-optimizing-bc
+# Areopa webinar June 2024 - Techniques for optimizing Dynamics 365 Business Central
